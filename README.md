@@ -50,28 +50,26 @@ I am a passionate B.Tech ECE student at **Koneru Lakshmaiah Education Foundation
 
 ## 🏆 Achievements & Certifications
 
-- Runner-Up, **College Hackathon-KLEF** (ECE solutions & embedded systems)  
 - **GeeksforGeeks MongoDB Expertise Certification**  
 - **Salesforce Certified AI Associate**  
 - **Embedded Systems & IoT Programming Certification**  
 - **Prodigy Web Development Internship Certificate**  
 - **Cisco Networking Internship Certificate**
+- 
 
 ---
 
 ## 🤝 Volunteer Work
 
 - **Smart Village Revolution-KLEF**: Implemented sustainable solutions in rural communities.  
-- **Event Organizer, Zero One Club-KLEF**: Delivered workshops for 2000+ developers.
-
 ---
 
 ## 📫 Connect with Me
 
-- Portfolio: [Mounika.com](https://Mounika.com)  
+- Portfolio: [Mounika.com](https://tmkpf.netlify.app/)  
 - GitHub: [Mounika40156](https://github.com/Mounika40156)  
-- LinkedIn: [Tirumala Mounika](https://www.linkedin.com/in/Tirumala-Mounika)  
-- LeetCode: [KLU2300040156](https://leetcode.com/KLU2300040156)  
+- LinkedIn: [Tirumala Mounika](https://www.linkedin.com/in/tirumala-mounika-54b8422a2/)  
+- LeetCode: [KLU2300040156](https://leetcode.com/u/KLU2300040156/)  
 - Email: 2300040156ece@gmail.com  
 - Mobile: +91-8978112586
 
