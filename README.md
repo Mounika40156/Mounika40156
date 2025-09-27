@@ -71,7 +71,7 @@ I am a passionate B.Tech ECE student at **Koneru Lakshmaiah Education Foundation
 - LinkedIn: [Tirumala Mounika](https://www.linkedin.com/in/tirumala-mounika-54b8422a2/)  
 - LeetCode: [KLU2300040156](https://leetcode.com/u/KLU2300040156/)  
 - Email: 2300040156ece@gmail.com  
-- Mobile: +91-8978112586
+
 
 ---
 
