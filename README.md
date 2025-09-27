@@ -30,13 +30,13 @@ I am a passionate B.Tech ECE student at **Koneru Lakshmaiah Education Foundation
 
 ## 🛠 Projects
 
-- **Recipe App**: Responsive recipe app with React and Tailwind CSS. [Link](#)
-- **Movie App**: Movie app using OMDB API & YouTube API with React & Tailwind CSS. [Link](#)
-- **Spotify Clone**: Responsive Spotify UI clone with React & Tailwind CSS. [Link](#)
-- **Shop-in-Farm**: Farm shopping platform using NodeJS & ExpressJS. [Link](#)
-- **Tic-Tac-Toe**: Interactive game with AI & two-player mode in JavaScript/HTML/CSS. [Link](#)
-- **KnowurWeather**: Weather app using OpenWeather API with JavaScript. [Link](#)
-- **YouTube UI Clone**: Replica of YouTube interface using HTML, CSS, JavaScript. [Link](#)
+- **Recipe App**: Responsive recipe app with React and Tailwind CSS. 
+- **Movie App**: Movie app using OMDB API & YouTube API with React & Tailwind CSS. 
+- **Spotify Clone**: Responsive Spotify UI clone with React & Tailwind CSS. 
+- **Shop-in-Farm**: Farm shopping platform using NodeJS & ExpressJS. 
+- **Tic-Tac-Toe**: Interactive game with AI & two-player mode in JavaScript/HTML/CSS. 
+- **KnowurWeather**: Weather app using OpenWeather API with JavaScript.
+- **YouTube UI Clone**: Replica of YouTube interface using HTML, CSS, JavaScript. 
 
 ---
 
