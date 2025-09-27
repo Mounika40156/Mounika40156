@@ -1,72 +1,82 @@
-# Hi, I'm <Mounika>! 👋
+# Hi, I'm Tirumala Mounika! 👋
 
-I am a passionate B.Tech ECE student at KLUNIVERSITY VIJAYAWADA, driven by a curiosity for electronics and a love for communication. My journey involves delving into the world of electronics and communication engineering, exploring new ideas, and sharing my insights with the community.
+I am a passionate B.Tech ECE student at **Koneru Lakshmaiah Education Foundation, Vijayawada**, driven by curiosity in electronics, communication, and full-stack development. I love exploring tech innovations, building projects, and contributing to the community.
 
---------------------------------------------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthachodisetti&label=Profile%20views&color=0e75b6&style=flat" alt="amruthachodisetti" /> </p>
+---
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=amruthachodisetti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mounika40156&label=Profile%20views&color=0e75b6&style=flat" alt="Mounika40156" /> </p>
 
+![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounika40156&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor of degree in electronics and communication engineering an at KLUNIVERSITY VIJAYAWADA.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 Currently pursuing **B.Tech in Electronics and Communication Engineering (ECE)** at KL University, GPA: 9.75/10.
+- 🌱 Exploring **Full Stack Web Development**:
+  - ReactJS, Tailwind CSS for front-end development.
+  - NodeJS and ExpressJS for server-side applications.
+  - PostgreSQL and MongoDB for database management.
+- 👯 Actively contributing to **web development projects** and building a strong portfolio.
+- 💡 Passionate about AI, IoT, Embedded Systems, and innovative tech solutions.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+---
 
+## 💻 Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,c,cpp,html,css,nodejs,react,express,tailwind)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+---
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+## 🛠 Projects
 
- ## 🏆 Achievements
+- **Recipe App**: Responsive recipe app with React and Tailwind CSS. [Link](#)
+- **Movie App**: Movie app using OMDB API & YouTube API with React & Tailwind CSS. [Link](#)
+- **Spotify Clone**: Responsive Spotify UI clone with React & Tailwind CSS. [Link](#)
+- **Shop-in-Farm**: Farm shopping platform using NodeJS & ExpressJS. [Link](#)
+- **Tic-Tac-Toe**: Interactive game with AI & two-player mode in JavaScript/HTML/CSS. [Link](#)
+- **KnowurWeather**: Weather app using OpenWeather API with JavaScript. [Link](#)
+- **YouTube UI Clone**: Replica of YouTube interface using HTML, CSS, JavaScript. [Link](#)
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+---
 
+## 🌱 Experience
 
-## 📬 Get in Touch
+- **Intern, Web Development – Prodigy Infotech** (Oct 2024 - Nov 2024)  
+  - Implemented client-side storage using JavaScript (LocalStorage & SessionStorage)  
+  - Built and deployed API-based apps on Netlify via GitHub
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## 🏆 Achievements & Certifications
 
+- Runner-Up, **College Hackathon-KLEF** (ECE solutions & embedded systems)  
+- **GeeksforGeeks MongoDB Expertise Certification**  
+- **Salesforce Certified AI Associate**  
+- **Embedded Systems & IoT Programming Certification**  
+- **Prodigy Web Development Internship Certificate**  
+- **Cisco Networking Internship Certificate**
 
+---
 
-<!--
+## 🤝 Volunteer Work
 
-Here are some ideas to get you started:
+- **Smart Village Revolution-KLEF**: Implemented sustainable solutions in rural communities.  
+- **Event Organizer, Zero One Club-KLEF**: Delivered workshops for 2000+ developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash-k" /> </p>
-<h3>Connect with Me!</h3>
+---
+
+## 📫 Connect with Me
+
+- Portfolio: [Mounika.com](https://Mounika.com)  
+- GitHub: [Mounika40156](https://github.com/Mounika40156)  
+- LinkedIn: [Tirumala Mounika](https://www.linkedin.com/in/Tirumala-Mounika)  
+- LeetCode: [KLU2300040156](https://leetcode.com/KLU2300040156)  
+- Email: 2300040156ece@gmail.com  
+- Mobile: +91-8978112586
+
+---
+
 <p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/Amrutha Chodisetti
- /">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sa_t_ya/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>&nbsp;&nbsp;
+  Let's build and explore technology together! 🚀
 </p>
