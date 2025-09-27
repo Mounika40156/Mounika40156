@@ -31,7 +31,7 @@ I am a passionate B.Tech ECE student at **Koneru Lakshmaiah Education Foundation
 - **[Recipe App](https://recipe-app-chi-ivory.vercel.app/)**: Responsive recipe app with React and Tailwind CSS.  
 - **[Movie App](https://www.linkedin.com/feed/update/urn:li:activity:7286636877351174145/)**: Movie app using OMDB API & YouTube API with React & Tailwind CSS.  
 - **[Spotify Clone](https://www.linkedin.com/feed/update/urn:li:activity:7285242488884183040/)**: Responsive Spotify UI clone with React & Tailwind CSS.  
-- **[Shop-in-Farm]: Farm shopping platform using NodeJS & ExpressJS.  
+-   [Shop-in-Farm]: Farm shopping platform using NodeJS & ExpressJS.  
 - **[Tic-Tac-Toe](https://responsive-tic-tac-toc-game.netlify.app/)**: Interactive game with AI & two-player mode in JavaScript/HTML/CSS.  
 - **[KnowurWeather](https://knowurweatherhere.netlify.app/)**: Weather app using OpenWeather API with JavaScript.  
 - **[YouTube UI Clone](https://mouniytclone.netlify.app/)**: Replica of YouTube interface using HTML, CSS, JavaScript.  
